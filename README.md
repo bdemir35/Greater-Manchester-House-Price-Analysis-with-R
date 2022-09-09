@@ -460,7 +460,23 @@ tenure %>%
 
 ![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/tenure_preference.jpg)
   
+# Conclusion
 
+* In average property prices between the £205.000 - just below £79.0000 , respectively Detached properties has the highest price in the market and in contrast Terraced  properties has the lowest market value.
+
+* Just after 2001 newly built developments in Flats/Masionettes numbers are significantly increased in the market until 2006 , however after this year it reduced  dramatically until 2012 , but still has the highest demand in the market.  
+
+* Established properties demand for the buyers has highest number for Terraced and Semi-Detached type of properties, almost showing the same trend, where terraced type is more popular for the buyers.
+
+* Between the years __1995-2017__ sold properties number is  in total 985227. Terraced houses has the almost **39%** of total sales, and Semi-Detached properties has the 2nd rank with just above **33.5%**.
+
+* As expected most popular city is the Manchester and Stockport and Wigan following it respectively. They have 41% of the market share.
+
+* All types of property sales have a significant decrease after the year 2007, while gaining increase after the year 2012.
+
+* The most popular season for buyers is Summer while least popular season is Winter. But importantly , there is no notably difference between the number of sales.
+
+* Except for Flat/Masionettes property type , the buyers always prefer Freehold more than Leasehold for Detached, Semi-Detached and Other property types, while for Terraced buyers almost has 50% distribution.
   
   
 
