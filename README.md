@@ -23,7 +23,7 @@ Data produced by HM Land Registry © Crown copyright 2017.
 
 # Questions  
 
-In this section we are going to answer questions below.
+The questions we are going to try to answer at the end of the project.
 
 * How much the average price changed for each property type over time ?
 * Which type of property sold the most ?
