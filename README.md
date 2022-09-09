@@ -1,3 +1,8 @@
+# Greater Manchester Sold House Prices Changes between 1995-2017
+
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Images/main.jpg)
+
+
 
 # Introduction  
 The Price Paid Data includes information on all registered property sales in England and Wales that are sold for full market value.
@@ -279,6 +284,9 @@ avg_price_by_type %>%
         text = element_text(size = 14))
 
 ```
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/avg_price_by_type.jpg)
+
+
 
 * Newly built property selling demand over time Plot
 
@@ -303,7 +311,7 @@ demand_over_time %>%
 
 ```
 
-  
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/newly_built_demand.jpg)
 
 
 
@@ -325,6 +333,8 @@ demand_over_time %>%
   scale_x_continuous(breaks = c(1995:2017))+
   ylim(0,30000)
 ```
+
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/established_property_demand.jpg)
 
  
 * Distribution of Sold Property by Type
@@ -350,6 +360,9 @@ number_of_property_type %>%
 
 ```
 
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/Total_property_sold_pie.jpg)
+
+
 * Number of Sales by District
 
 ```{r fig.width= 15}
@@ -367,6 +380,8 @@ number_of_sales_by_district %>%
              color = "white")
 
 ```
+
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/total_sales_by_district.jpg)
 
 
 * Total sales trend by property type
@@ -386,6 +401,8 @@ sale_trend_over_time %>%
         panel.grid = element_blank())
 
 ```
+
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/total_property_sales_trend.jpg)
 
 * Let's have a look at the best and least selling season and 
 
@@ -418,6 +435,8 @@ mc %>%
 
 ```
 
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/season_sales.jpg)
+
 * Which tenure is most common for buyers over the time ?
 * Any changes with the trend ?
 * Which property type buyers prefer which tenure type ?
@@ -439,7 +458,7 @@ tenure %>%
 
 ```
 
-
+![](https://github.com/bdemir35/Greater-Manchester-House-Price-Analysis-with-R/blob/main/Visuals/tenure_preference.jpg)
   
 
   
